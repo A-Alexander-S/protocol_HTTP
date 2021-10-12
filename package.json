@@ -1,0 +1,26 @@
+{
+  "name": "protocol_http",
+  "version": "1.0.0",
+  "description": "protocol_HTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-Alexander-S/protocol_HTTP.git"
+  },
+  "author": "Alexander Akimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-Alexander-S/protocol_HTTP/issues"
+  },
+  "homepage": "https://github.com/A-Alexander-S/protocol_HTTP#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
